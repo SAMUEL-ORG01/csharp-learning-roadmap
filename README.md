@@ -9,13 +9,13 @@ This document contains a simplified list of concepts to guide new developers thr
 ## C#
 
 - Learn the Fundamentals
-  - [Basic Syntax](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
-  - [Variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables) and [Data Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
-    - [String](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
-    - [Int](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
-    - [Boolean](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool)
-    - [Float/Double/Decimal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
-    - [Var](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
+  - [ ] [Basic Syntax](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+  - [ ] [Variables](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/language-specification/variables) and [Data Types](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/built-in-types)
+    - [ ] [String](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)
+    - [ ] [Int](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
+    - [ ] [Boolean](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/bool)
+    - [ ] [Float/Double/Decimal](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)
+    - [ ] [Var](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/types/anonymous-types)
   - [Conditionals](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/statements/selection-statements)
   - [Methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
   - [Collections](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/collections)
